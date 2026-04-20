@@ -1,3 +1,6 @@
+#Intregrantes:
+Enrique Eusebio Torres Chafloque
+
 # CommandCenter++
 
 ## Descripción
